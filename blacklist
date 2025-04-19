@@ -1,1 +1,6 @@
+# ===============================================================
+#        Mostly things that other blacklists ignored
+# ===============================================================
 
+# Microsoft edge
+edge-microsoft-com.dual-a-0036.a-msedge.net
