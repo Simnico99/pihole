@@ -1,1 +1,16 @@
+# =====================================================================
+#  Mostly things that other blacklists blocked that I need whitelisted
+# =====================================================================
 
+# Helldivers 2
+oneocsp.microsoft.com
+
+# Windows / Azure
+settings-win.data.microsoft.com
+client.wns.windows.com
+
+# Onedrive
+skydrive.wns.windows.com
+
+# Deezer
+rec.deezer.com
