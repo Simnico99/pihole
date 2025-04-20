@@ -4,6 +4,16 @@
 
 # Microsoft edge
 edge-microsoft-com.dual-a-0036.a-msedge.net
+config.edge.skype.com.trafficmanager.net
+edge-microsoft-com.ax-0002.ax-msedge.net
+arc-0001.arc-msedge.net
+ax-0002.ax-msedge.net
+ax-msedge.net
+a-msedge.net
+prod-atm-wds-edge.trafficmanager.net
+e17307.dscb.akamaiedge.net
+e86303.dscx.akamaiedge.net
+e15313.dsca.akamaiedge.net
 
 # nvidia
 events.gfe.nvidia.com
