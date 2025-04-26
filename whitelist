@@ -11,6 +11,9 @@ settings-win.data.microsoft.com
 client.wns.windows.com
 g.live.com
 
+# Windows Insider
+insideruser.microsoft.com
+
 # Microsoft Edge
 config.edge.skype.com
 
