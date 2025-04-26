@@ -6,8 +6,12 @@
 oneocsp.microsoft.com
 
 # Windows / Azure
+policykeyservice.dc.ad.msft.net
 settings-win.data.microsoft.com
 client.wns.windows.com
+
+# Microsoft Edge
+config.edge.skype.com
 
 # Onedrive
 skydrive.wns.windows.com
