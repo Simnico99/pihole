@@ -3,7 +3,6 @@
 # ===============================================================
 
 # Microsoft edge
-config.edge.skype.com.trafficmanager.net
 xpaywalletcdn-prod.afd.azureedge.net
 
 # nvidia
