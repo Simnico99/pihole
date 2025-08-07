@@ -11,6 +11,9 @@ settings-win.data.microsoft.com
 client.wns.windows.com
 g.live.com
 
+# MSN Weather Widget
+functional.events.data.microsoft.com
+
 # Windows Insider
 insideruser.microsoft.com
 
