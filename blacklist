@@ -23,3 +23,6 @@ hqemgate08.nvidia.com
 hqemgate09.nvidia.com
 hqemgate10.nvidia.com
 nvidiahk.nvidia.com
+
+#k8s lens
+api.k8slens.dev
