@@ -26,3 +26,7 @@ nvidiahk.nvidia.com
 
 # k8s lens
 api.k8slens.dev
+
+# TP-Link Omada
+n-da.tplinkcloud.com
+api-omada-common-data-manager.tplinkcloud.com
