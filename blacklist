@@ -31,3 +31,6 @@ api.k8slens.dev
 n-da.tplinkcloud.com
 n-deventry.tplinkcloud.com
 api-omada-common-data-manager.tplinkcloud.com
+
+# Minecraft plugin telemetry
+pstats.devs.beer
