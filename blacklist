@@ -39,3 +39,6 @@ pstats.devs.beer
 provisioning-use1.mgmt.aibixby.com
 provisioning-use2.mgmt.aibixby.com
 aibixby.com
+
+# 1Password Telemetry
+client-log-forwarder.1password.com
